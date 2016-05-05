@@ -8,6 +8,6 @@
  3.按照拍照时间以天为单位显示照片列表<br>
  4.利用okHttp上传单张或多张照片<br>
  ##效果图如下<br>
- ![](https://github.com/xsy2015/WaterControl/raw/01.png)<br>
- ![](https://github.com/xsy2015/WaterControl/raw/02.png)<br>
- ![](https://github.com/xsy2015/WaterControl/raw/03.png)<br>
+ ![](https://github.com/xsy2015/WaterControl/blob/master/app/src/main/assets/01.png)<br>
+ ![](https://github.com/xsy2015/WaterControl/blob/master/app/src/main/assets/02.png)<br>
+ ![](https://github.com/xsy2015/WaterControl/blob/master/app/src/main/assets/03.png)<br>
