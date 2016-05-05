@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="reveal_color">#1b000000</color>
+    <color name="light_green">#0ac39e</color>
+
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+    <color name="gray">#808080</color>
+    <color name="main_color">#36a2e0</color>
+    <color name="bg_gray">#CCCCCC</color>
+    <color name="bg_transparent50">#50000000</color>
+    <color name="divide_line">#C3C3C3</color>
+    <color name="text_color">#323232</color>
+    <color name="white">#FFFFFF</color>
+    <color name="bg_main">#F2F2F2</color>
+    <color name="text_light_gray">#989898</color>
+    <color name="text_light_blue">#2d7ac1</color>
+    <color name="text_sea_blue">#5ad7ea</color>
+    <color name="title_color">#e6e0e0</color>
+    <color name="text_light_black">#656565</color>
+
+
+
+
+
+</resources>

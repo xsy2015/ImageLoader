@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <com.water.jxwz.ui.SquareImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        android:src="@drawable/image_default" />
+    <ImageView
+        android:id="@+id/iv_select"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/select_normal"
+        android:layout_gravity="right|top"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="2dp"
+        android:scaleType="centerInside"
+        />
+    <ImageView
+        android:id="@+id/iv_type"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/clean"
+        android:layout_gravity="left|top"
+        android:scaleType="centerInside"
+        />
+    <ImageView
+        android:id="@+id/iv_upload"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/bg_transparent50"
+        android:scaleType="centerInside"
+        android:visibility="gone"
+        />
+
+</FrameLayout>

@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\emergency.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\emergency.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dirty.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\dirty.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\phone_normal.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\phone_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notice_manager.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\notice_manager.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\logo.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\view_imge_gray.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\view_imge_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\image_default.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\image_default.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrows_left.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\arrows_left.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\go_back.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\go_back.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher_1.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher_1.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\arrows_right.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\arrows_right.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quit_nomal.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\quit_nomal.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gou_gray.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\gou_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dirty_red.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\dirty_red.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_img.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\default_img.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dirty_gray.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\dirty_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\clean.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\clean.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\emergency_icon.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\emergency_icon.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\selected.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\selected.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\clean_blue.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\clean_blue.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\more_gray.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\more_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\msg.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\msg.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\patrol_officer_manager.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\patrol_officer_manager.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\setting.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\line_after.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\line_after.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\close.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\close.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\welcome.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\welcome.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\clean_gray.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\clean_gray.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\phone_pressed.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\phone_pressed.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\reshoot.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\reshoot.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\quit_select.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\quit_select.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\login_logo.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\login_logo.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\select_normal.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\select_normal.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\gou_green.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\gou_green.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\more_blue.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\more_blue.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\line_before.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\line_before.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\red_point.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\red_point.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\circle.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\circle.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_header.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\home_header.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\view_img_blue.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable-xhdpi\\view_img_blue.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    }
+]

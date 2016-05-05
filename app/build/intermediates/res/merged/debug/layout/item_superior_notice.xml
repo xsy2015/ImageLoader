@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+<ImageView
+    android:id="@+id/iv_emergency"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="10dp"
+    android:src="@drawable/emergency_icon"
+    android:scaleType="fitXY"
+    android:layout_gravity="center_vertical"
+    android:visibility="gone"
+    />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        >
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="15dp">
+
+        <TextView
+            android:id="@+id/tv_title"
+            style="@style/home_black_little_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="上级通知"/>
+        <TextView
+            android:id="@+id/tv_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableTop="@drawable/red_point"
+            android:gravity="center_vertical"
+           />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_time"
+            android:textColor="#656565"
+            android:textSize="@dimen/font12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="15dp"
+            android:layout_centerVertical="true"
+            android:text="3月26日"
+            />
+    </RelativeLayout>
+        <TextView
+            android:id="@+id/tv_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="15dp"
+            android:maxLines="2"
+            android:ellipsize="end"
+            android:textColor="#656565"
+            android:textSize="@dimen/font14"
+            android:text="任命王五为李村村长，辅助河段管理。"
+            />
+</LinearLayout>
+</LinearLayout>

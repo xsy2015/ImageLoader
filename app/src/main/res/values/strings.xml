@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">河长制</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="new_year">年</string>
+    <string name="new_month">月</string>
+    <string name="new_date">日</string>
+    <string name="new_hour">时</string>
+    <string name="new_minite">分</string>
+    <string name="sunday">星期天</string>
+    <string name="monday">星期一</string>
+    <string name="tuesday">星期二</string>
+    <string name="wednesday">星期三</string>
+    <string name="thursday">星期四</string>
+    <string name="friday">星期五</string>
+    <string name="saturday">星期六</string>
+
+    <!-- 淡黑(对话框标题) -->
+    <color name="dialog_title_black">#333333</color>
+    <string name="title_alert">提示信息</string>
+    <string name="new_warm_prompt">温馨提示</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="call">呼叫</string>
+
+    <string name="upload_manager">上传管理</string>
+    <string name="preview">预览</string>
+    <string name="setting">设置</string>
+    <string name="superior_notice">上级通知</string>
+    <string name="emergency">紧急事件</string>
+    <string name="emergency_notice">通知管理</string>
+    <string name="name">姓名</string>
+    <string name="river_number">负责河道编号</string>
+    <string name="attendance">本周考勤</string>
+    <string name="officer_manager">巡防员管理</string>
+
+    <string name="header_hint_refresh_normal">下拉刷新</string>
+    <string name="header_hint_refresh_ready">释放刷新</string>
+    <string name="header_hint_refresh_loading">正在刷新&#8230;</string>
+    <string name="header_hint_refresh_time">最近更新：</string>
+    <string name="footer_hint_load_normal">加载更多</string>
+    <string name="footer_hint_load_ready">释放加载更多</string>
+
+    <string name="tv_name">姓&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;名</string>
+    <string name="address">地&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;址</string>
+    <string name="phone">电&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;话</string>
+    <string name="kaoqing">本月考勤</string>
+    <string name="river_num">巡防河段</string>
+    <string name="river_start">河段起点</string>
+    <string name="river_end">河段终点</string>
+    <string name="officer_details">巡防员详情</string>
+
+
+</resources>

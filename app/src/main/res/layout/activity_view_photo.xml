@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <include layout="@layout/title"
+             android:id="@+id/top"
+        />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000" />
+
+    <TextView
+        android:id="@+id/tv_index"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:textColor="#FF0000"
+        android:text=""
+        android:background="@android:color/transparent"
+        android:visibility="gone"/>
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/white"
+       android:gravity="center_vertical"
+       android:orientation="horizontal"
+        android:id="@+id/rl_bottom">
+
+        <ImageView
+           android:id="@+id/iv_cancel"
+           android:layout_width="0dp"
+           android:layout_height="match_parent"
+           android:layout_marginLeft="15dp"
+           android:layout_weight="0.2"
+           android:src="@drawable/quit_selector"
+           android:scaleType="centerInside"
+           />
+
+        <ImageView
+            android:id="@+id/iv_clean"
+            android:layout_width="0dp"
+            android:layout_weight="0.2"
+            android:layout_height="match_parent"
+            android:scaleType="centerInside"
+            android:layout_marginLeft="30dp"
+            android:src="@drawable/clear_selector"
+            />
+        <ImageView
+            android:id="@+id/iv_dirty"
+            android:layout_width="0dp"
+            android:layout_weight="0.2"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="30dp"
+            android:src="@drawable/dirty_selector"
+            android:scaleType="centerInside"
+            />
+
+        <ImageView
+            android:id="@+id/iv_more"
+            android:layout_width="0dp"
+            android:layout_weight="0.4"
+            android:layout_height="match_parent"
+            android:src="@drawable/more_selector"
+            android:scaleType="centerInside"
+            />
+
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <include layout="@layout/title"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="53dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/login_logo"/>
+
+    <EditText
+        android:id="@+id/et_name"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="30dp"
+        android:paddingLeft="10dp"
+        android:layout_height="44dp"
+        android:background="@drawable/et_normal"
+        android:singleLine="true"
+        android:textColor="#666666"
+        android:textSize="15sp"
+        android:hint="请输入你的用户名"/>
+    <EditText
+        android:id="@+id/et_pwd"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="15dp"
+        android:paddingLeft="10dp"
+        android:layout_height="44dp"
+        android:background="@drawable/et_normal"
+        android:singleLine="true"
+        android:textColor="#666666"
+        android:textSize="15sp"
+        android:hint="请输入密码"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:gravity="center"
+        android:background="@drawable/bule_bg"
+        android:text="登录"
+        android:textColor="@color/white"
+        android:textSize="@dimen/font16"
+        android:id="@+id/tv_login"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp">
+        <ImageView
+            android:layout_width="108dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/line_before"
+            android:layout_gravity="center"
+            android:scaleType="fitXY"/>
+        <TextView
+            android:layout_width="85dp"
+            android:layout_height="wrap_content"
+            android:textColor="@color/text_color"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="13sp"
+            android:text="忘记密码"/>
+        <ImageView
+            android:layout_width="108dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/line_after"
+            android:layout_gravity="center"
+            android:scaleType="fitXY"/>
+    </LinearLayout>
+
+</LinearLayout>

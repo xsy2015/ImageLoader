@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+    android:background="@color/bg_main">
+    <include layout="@layout/title"/>
+
+    <com.water.jxwz.stickygridheaders.StickyGridHeadersGridView
+               android:id="@+id/gv"
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:layout_weight="1"
+               android:clipToPadding="false"
+               android:listSelector="@android:color/transparent"
+               android:padding="3dp"
+               android:gravity="center"
+               android:numColumns="4"
+               android:stretchMode="columnWidth"
+               android:horizontalSpacing="3dip"
+               android:verticalSpacing="3dip" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="49dp"
+        android:gravity="bottom"
+        android:background="@color/white">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:textSize="@dimen/font16"
+            android:textColor="@drawable/tv_selector"
+            android:gravity="center"
+            android:text="删除"
+            android:background="@drawable/tab_tv_normal"
+            android:id="@+id/tv_delete"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:textSize="@dimen/font16"
+            android:textColor="@drawable/tv_selector"
+            android:gravity="center"
+            android:text="上传"
+            android:background="@drawable/tab_tv_normal"
+            android:id="@+id/tv_upload"/>
+
+    </LinearLayout>
+
+</LinearLayout>

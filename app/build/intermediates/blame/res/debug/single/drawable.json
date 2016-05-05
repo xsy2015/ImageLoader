@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\et_normal.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable\\et_normal.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_middle_selector.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable\\actionsheet_middle_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_tv_selected.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable\\tab_tv_selected.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_tv_normal.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable\\tab_tv_normal.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_single_selector.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable\\actionsheet_single_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\view_img_selector.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable\\view_img_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_tv_bg.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable\\tab_tv_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_rectangle_pop.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable\\round_rectangle_pop.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quit_selector.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable\\quit_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_tv_selector.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable\\tab_tv_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more_selector.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable\\more_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bule_bg.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable\\bule_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clear_selector.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable\\clear_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_rectangle_img_bg.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable\\round_rectangle_img_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phone_selector.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable\\phone_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_top_selector.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable\\actionsheet_top_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tv_selector.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable\\tv_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_rectangle_gary.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable\\round_rectangle_gary.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionsheet_bottom_selector.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable\\actionsheet_bottom_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tv_bg_top.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable\\tv_bg_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_white.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable\\round_white.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_rectangle_white.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable\\round_rectangle_white.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dirty_selector.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable\\dirty_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\src\\main\\res\\drawable\\edit.xml"
+    },
+    {
+        "merged": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\AndroidPro\\WaterControl\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    }
+]

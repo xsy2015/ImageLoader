@@ -1,0 +1,205 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:2:1-79:12
+	package
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.1.1] E:\AndroidPro\WaterControl\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] E:\AndroidPro\WaterControl\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [org.litepal.android:core:1.3.1] E:\AndroidPro\WaterControl\app\build\intermediates\exploded-aar\org.litepal.android\core\1.3.1\AndroidManifest.xml:7:5-9:41
+MERGED from [WaterControl:base-adapter-library:unspecified] E:\AndroidPro\WaterControl\app\build\intermediates\exploded-aar\WaterControl\base-adapter-library\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:23.1.1] E:\AndroidPro\WaterControl\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] E:\AndroidPro\WaterControl\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.zhy:okhttputils:2.3.9] E:\AndroidPro\WaterControl\app\build\intermediates\exploded-aar\com.zhy\okhttputils\2.3.9\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:13:22-78
+uses-feature#android.hardware.camera
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:15:5-60
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:15:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:16:5-70
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:16:19-67
+uses-permission#android.permission.CAMERA
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:17:5-65
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:17:22-62
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:19:22-66
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:23:5-97
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:25:5-95
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:27:5-92
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:27:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:31:5-92
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:31:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:33:5-91
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:33:22-72
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:39:5-100
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:39:22-81
+application
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:41:5-77:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] E:\AndroidPro\WaterControl\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] E:\AndroidPro\WaterControl\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [org.litepal.android:core:1.3.1] E:\AndroidPro\WaterControl\app\build\intermediates\exploded-aar\org.litepal.android\core\1.3.1\AndroidManifest.xml:11:5-14:19
+MERGED from [WaterControl:base-adapter-library:unspecified] E:\AndroidPro\WaterControl\app\build\intermediates\exploded-aar\WaterControl\base-adapter-library\unspecified\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-v4:23.1.1] E:\AndroidPro\WaterControl\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:45:9-41
+	android:allowBackup
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:43:9-35
+	android:icon
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:44:9-38
+	android:theme
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:46:9-62
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:42:9-57
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:47:9-49:64
+	android:value
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:49:13-61
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:48:13-52
+activity#com.water.jxwz.activity.LoginActivity
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:51:9-59:20
+	android:label
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:53:13-45
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:52:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:54:13-58:29
+action#android.intent.action.MAIN
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:55:17-69
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:55:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:57:17-77
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:57:27-74
+activity#com.water.jxwz.activity.ViewPhotosActivity
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:60:8-109
+	android:launchMode
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:60:76-107
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:60:18-75
+activity#com.water.jxwz.activity.PhotoListActivity
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:61:9-63
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:61:19-61
+activity#com.water.jxwz.activity.DisplayActivity
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:62:9-61
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:62:19-59
+activity#com.water.jxwz.activity.CustomCameraActivity
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:63:8-65:51
+	android:launchMode
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:65:18-49
+	android:configChanges
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:64:19-80
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:63:18-63
+service#com.baidu.location.f
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:67:9-114
+	android:enabled
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:67:54-76
+	android:process
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:67:77-102
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:67:18-53
+activity#com.water.jxwz.activity.SettingActivity
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:68:9-98
+	android:screenOrientation
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:68:60-96
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:68:19-59
+activity#com.water.jxwz.activity.SuperiorNoticeActivity
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:69:9-105
+	android:screenOrientation
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:69:67-103
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:69:19-66
+activity#com.water.jxwz.activity.ImgListActivity
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:70:9-98
+	android:screenOrientation
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:70:60-96
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:70:19-59
+activity#com.water.jxwz.activity.PictureListActivity
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:71:9-137
+	android:screenOrientation
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:71:64-100
+	android:hardwareAccelerated
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:71:101-135
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:71:19-63
+activity#com.water.jxwz.activity.HomeActivity
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:72:9-95
+	android:screenOrientation
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:72:57-93
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:72:19-56
+activity#com.water.jxwz.activity.EmergencyActivity
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:73:9-100
+	android:screenOrientation
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:73:62-98
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:73:19-61
+activity#com.water.jxwz.activity.OfficerManagerActivity
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:74:9-105
+	android:screenOrientation
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:74:67-103
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:74:19-66
+activity#com.water.jxwz.activity.OfficerDetailsActivity
+ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:75:9-105
+	android:screenOrientation
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:75:67-103
+	android:name
+		ADDED from E:\AndroidPro\WaterControl\app\src\main\AndroidManifest.xml:75:19-66
